@@ -428,31 +428,7 @@
 		)
 		(uuid "d97f82ae-066a-498c-8749-289be2721644")
 	)
-	(hierarchical_label "STATUS_LED_3"
-		(shape input)
-		(at 97.79 66.04 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6d450a4d-7a34-4cac-84a0-687b155f5cdf")
-	)
-	(hierarchical_label "STATUS_LED_1"
-		(shape input)
-		(at 97.79 45.72 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cdfd16cc-e414-447c-a869-7dc0649e9ab7")
-	)
-	(hierarchical_label "STATUS_LED_2"
+	(global_label "STATUS_LED_2"
 		(shape input)
 		(at 97.79 55.88 0)
 		(fields_autoplaced yes)
@@ -462,7 +438,61 @@
 			)
 			(justify left)
 		)
-		(uuid "f856e355-44f7-4301-835a-063139399e5b")
+		(uuid "32c1daa9-6630-4874-b8c7-51fb2b983aa7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.1403 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "STATUS_LED_3"
+		(shape input)
+		(at 97.79 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "67c798a4-93ed-457a-97ff-42b72c58d945")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.1403 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "STATUS_LED_1"
+		(shape input)
+		(at 97.79 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e75a06d-6fb2-4534-b97f-adeec5c4b091")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.1403 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:LED")

@@ -1428,7 +1428,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 50.8) (xy 68.58 50.8)
+			(xy 58.42 50.8) (xy 68.58 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1458,7 +1458,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 57.15) (xy 52.07 57.15)
+			(xy 58.42 57.15) (xy 52.07 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1568,7 +1568,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 57.15) (xy 59.69 50.8)
+			(xy 58.42 57.15) (xy 58.42 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1869,7 +1869,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1 uF"
 			(at 67.31 80.0099 0)
 			(effects
 				(font
@@ -2005,7 +2005,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "18.432 MHz"
 			(at 115.57 60.9599 90)
 			(effects
 				(font
@@ -2705,7 +2705,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "18.432 MHz"
 			(at 205.74 58.4199 90)
 			(effects
 				(font
@@ -2775,7 +2775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "28 pF"
 			(at 110.49 53.3399 0)
 			(effects
 				(font
@@ -2900,10 +2900,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7158c6cc-45ae-41a8-b762-6c4db9cbf329")
 		(property "Reference" "R4"
-			(at 54.61 52.0699 0)
+			(at 47.244 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,8 +2910,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 54.61 54.6099 0)
+		(property "Value" "12 kOhm"
+			(at 41.148 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3057,7 +3056,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "28 pF"
 			(at 200.66 50.7999 0)
 			(effects
 				(font
@@ -3127,7 +3126,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "28 pF"
 			(at 200.66 66.0399 0)
 			(effects
 				(font
@@ -3186,7 +3185,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "82b11a5a-1605-4ddc-ab0d-debeecdea96d")
 		(property "Reference" "#PWR017"
 			(at 180.34 66.04 0)
@@ -3198,7 +3196,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 187.96 66.0399 90)
+			(at 185.928 68.326 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3253,10 +3251,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8807ae82-2d22-42bd-a08a-41fb7d866b57")
 		(property "Reference" "R5"
-			(at 54.61 59.6899 0)
+			(at 47.244 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3264,8 +3261,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 54.61 62.2299 0)
+		(property "Value" "17 kOhm"
+			(at 41.656 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3389,7 +3386,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "91273ea8-8113-481a-bf21-920ecf256a03")
 		(property "Reference" "#PWR08"
 			(at 90.17 68.58 0)
@@ -3401,7 +3397,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 97.79 68.5799 90)
+			(at 95.758 71.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3467,7 +3463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1 uF"
 			(at 157.48 77.4699 0)
 			(effects
 				(font
@@ -3526,10 +3522,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ac5970f0-f0eb-4255-a25a-e0b3f233abae")
 		(property "Reference" "R6"
-			(at 144.78 49.5299 0)
+			(at 137.414 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3537,8 +3532,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 144.78 52.0699 0)
+		(property "Value" "12 kOhm"
+			(at 131.572 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,10 +3723,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bebd8a4d-24ff-48ab-b581-b5078ed427fd")
 		(property "Reference" "R7"
-			(at 144.78 57.1499 0)
+			(at 137.16 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,8 +3733,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 144.78 59.6899 0)
+		(property "Value" "17 kOhm"
+			(at 131.572 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +4199,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "28 pF"
 			(at 110.49 68.5799 0)
 			(effects
 				(font

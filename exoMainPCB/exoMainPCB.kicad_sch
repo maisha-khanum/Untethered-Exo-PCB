@@ -5254,36 +5254,6 @@
 				(justify left top)
 			)
 		)
-		(pin "STATUS_LED_3" input
-			(at 102.87 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "46f2b642-7fea-4678-a5e5-d936b19e9b3b")
-		)
-		(pin "STATUS_LED_1" input
-			(at 106.68 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "65a94869-f239-49ba-b7a5-b44dfc8a7241")
-		)
-		(pin "STATUS_LED_2" input
-			(at 110.49 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a1ee72c0-25eb-4ce1-8c34-0c422c71190c")
-		)
 		(instances
 			(project "exoMainPCB"
 				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
