@@ -598,6 +598,10 @@
     [
       "e25e8b6d-63d1-4635-889f-2a2ee866bc01",
       "Additional_Sensors"
+    ],
+    [
+      "20d00f03-295b-4c49-8c1d-e563a48271e2",
+      "Handheld"
     ]
   ],
   "text_variables": {}

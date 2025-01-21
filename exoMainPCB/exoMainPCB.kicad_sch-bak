@@ -5111,44 +5111,6 @@
 		)
 	)
 	(sheet
-		(at 97.79 54.61)
-		(size 12.7 52.07)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "20d00f03-295b-4c49-8c1d-e563a48271e2")
-		(property "Sheetname" "Handheld"
-			(at 97.79 53.8984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "handheld.kicad_sch"
-			(at 97.79 107.2646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "exoMainPCB"
-				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 121.92 118.11)
 		(size 71.12 35.56)
 		(fields_autoplaced yes)

@@ -1,5 +1,9 @@
 (sym_lib_table
   (version 7)
-  (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}\libraries\CM5IO.kicad_sym")(options "")(descr ""))
-  (lib (name "BNO085")(type "KiCad")(uri "${KIPRJMOD}\libraries\BNO085.kicad_sym")(options "")(descr ""))
+  (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM5IO.kicad_sym")(options "")(descr ""))
+  (lib (name "BNO085")(type "KiCad")(uri "${KIPRJMOD}/libraries/BNO085.kicad_sym")(options "")(descr ""))
+  (lib (name "SN65HVD230")(type "KiCad")(uri "${KIPRJMOD}/libraries/SN65HVD230.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP2515-IST")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP2515-IST.kicad_sym")(options "")(descr ""))
+  (lib (name "SI8642ED-B-IS")(type "KiCad")(uri "${KIPRJMOD}/libraries/SI8642ED-B-IS.kicad_sym")(options "")(descr ""))
+  (lib (name "SM24CANB")(type "KiCad")(uri "${KIPRJMOD}/libraries/SM24CANB.kicad_sym")(options "")(descr ""))
 )
