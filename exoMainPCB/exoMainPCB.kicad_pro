@@ -578,30 +578,6 @@
     [
       "d7ca945d-d48b-4d0a-95a1-7fbd3f20f475",
       "Root"
-    ],
-    [
-      "a3056e60-8112-4035-81ef-921162fd30eb",
-      "ADC_Amplifiers"
-    ],
-    [
-      "35ec5aec-8f79-4041-92e5-decfa31750e9",
-      "IO"
-    ],
-    [
-      "73083210-1cbe-44f1-879c-9981ba2f953e",
-      "Power_Management"
-    ],
-    [
-      "c8b15b41-7e4d-46da-8344-ef05884412e9",
-      "Debug"
-    ],
-    [
-      "e25e8b6d-63d1-4635-889f-2a2ee866bc01",
-      "Additional_Sensors"
-    ],
-    [
-      "20d00f03-295b-4c49-8c1d-e563a48271e2",
-      "Handheld"
     ]
   ],
   "text_variables": {}
