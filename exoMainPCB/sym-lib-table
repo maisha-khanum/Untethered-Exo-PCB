@@ -6,4 +6,5 @@
   (lib (name "MCP2515-IST")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP2515-IST.kicad_sym")(options "")(descr ""))
   (lib (name "SI8642ED-B-IS")(type "KiCad")(uri "${KIPRJMOD}/libraries/SI8642ED-B-IS.kicad_sym")(options "")(descr ""))
   (lib (name "SM24CANB")(type "KiCad")(uri "${KIPRJMOD}/libraries/SM24CANB.kicad_sym")(options "")(descr ""))
+  (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/libraries/SL2.1A.kicad_sym")(options "")(descr ""))
 )
