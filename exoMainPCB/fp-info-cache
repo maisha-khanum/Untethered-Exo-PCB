@@ -1,4 +1,4 @@
-24429995536498782
+24457805421985537
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BNO085
+IC_BNO085
+
+
+0
+28
+28
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2568,6 +2575,76 @@ speaker CUI
 0
 2
 2
+CM5IO
+BatteryHolder_Keystone_3034_1x20mm
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+CM5IO
+EDAC 690-019-298-412
+
+
+0
+23
+23
+CM5IO
+Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+24
+23
+CM5IO
+L_Bourns_SRP5030CC
+Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)
+Inductor Bourns_SRP5030T
+0
+2
+2
+CM5IO
+M.2 M Key socket
+
+
+0
+73
+73
+CM5IO
+MTCONN_UBAF30-D2011
+USB3 Stacked type A socket
+USB3 TypeA
+0
+22
+19
+CM5IO
+MountingHole_2.7mm_M2.5_DIN965
+Mounting Hole 2.7mm, no annular, M2.5, DIN965
+mounting hole 2.7mm no annular m2.5 din965
+0
+0
+0
+CM5IO
+Raspberry-Pi-5-Compute-Module
+Raspberry Pi 5 Compute Module
+Raspberry Pi 5 Compute Module
+0
+200
+200
+CM5IO
+SDCARD_MOLEX_503398-1892
+
+
+0
+14
+11
+CM5IO
+TRJG0926HENL
+https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
+RJ45 Magjack
+0
+20
+20
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -65568,6 +65645,34 @@ Yellow 5381 Series LED
 0
 2
 2
+MCP2515-IST
+SOP65P640X120-20N
+20-LEAD PLASTIC THIN SMALL OUTLINE (ST)
+Integrated Circuit
+0
+20
+20
+MCP2515-IST
+TSSOP20_MC_MCH
+
+MCP2515-I/ST 
+0
+20
+20
+MCP2515-IST
+TSSOP20_MC_MCH-L
+
+MCP2515-I/ST 
+0
+20
+20
+MCP2515-IST
+TSSOP20_MC_MCH-M
+
+MCP2515-I/ST 
+0
+20
+20
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -90502,6 +90607,83 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SI8642ED-B-IS
+SOIC-16W_SIL
+
+SI8642ED-B-IS 
+0
+16
+16
+SI8642ED-B-IS
+SOIC127P1030X265-16N
+WB SOIC 16
+Integrated Circuit
+0
+16
+16
+SL2.1A
+SOP-16_L10.0-W3.9-P1.27-LS6.0-BL
+
+
+0
+16
+16
+SM24CANB
+SM24CANB02HTG
+SOT23-3_2023
+TVS Diode (Bi-directional)
+0
+3
+3
+SM24CANB
+SOT23-3_SM24CANB-02HTG_LTF
+
+SM24CANB-02HTG 
+0
+3
+3
+SM24CANB
+SOT23-3_SM24CANB-02HTG_LTF-L
+
+SM24CANB-02HTG 
+0
+3
+3
+SM24CANB
+SOT23-3_SM24CANB-02HTG_LTF-M
+
+SM24CANB-02HTG 
+0
+3
+3
+SN65HVD230
+D8
+
+SN65HVD230D 
+0
+8
+8
+SN65HVD230
+D8-L
+
+SN65HVD230D 
+0
+8
+8
+SN65HVD230
+D8-M
+
+SN65HVD230D 
+0
+8
+8
+SN65HVD230
+SOIC127P600X175-8N
+D000
+Integrated Circuit
+0
+8
+8
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -98594,73 +98776,3 @@ Varistor VF
 0
 2
 2
-footprints
-BatteryHolder_Keystone_3034_1x20mm
-Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
-Keystone type 3034 coin cell retainer
-0
-3
-2
-footprints
-EDAC 690-019-298-412
-
-
-0
-23
-23
-footprints
-Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-24
-23
-footprints
-L_Bourns_SRP5030CC
-Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)
-Inductor Bourns_SRP5030T
-0
-2
-2
-footprints
-M.2 M Key socket
-
-
-0
-73
-73
-footprints
-MTCONN_UBAF30-D2011
-USB3 Stacked type A socket
-USB3 TypeA
-0
-22
-19
-footprints
-MountingHole_2.7mm_M2.5_DIN965
-Mounting Hole 2.7mm, no annular, M2.5, DIN965
-mounting hole 2.7mm no annular m2.5 din965
-0
-0
-0
-footprints
-Raspberry-Pi-5-Compute-Module
-Raspberry Pi 5 Compute Module
-Raspberry Pi 5 Compute Module
-0
-200
-200
-footprints
-SDCARD_MOLEX_503398-1892
-
-
-0
-14
-11
-footprints
-TRJG0926HENL
-https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
-RJ45 Magjack
-0
-20
-20
