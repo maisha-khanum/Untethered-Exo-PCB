@@ -71,14 +71,54 @@
 	(attr through_hole)
 	(fp_rect
 		(start -7.1 -2.9)
-		(end 7.3 11.4)
+		(end 7.3 10.4)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(fill none)
 		(layer "F.SilkS")
-		(uuid "5706e8f0-0ae3-497a-aeea-c50f5fbd14e1")
+		(uuid "b553a607-603f-4c01-b30f-938816c61384")
+	)
+	(fp_line
+		(start -7.1 10.7)
+		(end -7.1 11.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "e46869ab-ad9e-4c6f-99d1-34c6aad9dd5d")
+	)
+	(fp_line
+		(start -7.1 11.4)
+		(end 7.3 11.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "49f1cdc0-6a48-4774-823d-832cb3c14e85")
+	)
+	(fp_line
+		(start 7.3 10.7)
+		(end -7.1 10.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "05ff122a-c690-4a15-8f09-16935f75aee9")
+	)
+	(fp_line
+		(start 7.3 11.4)
+		(end 7.3 10.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "656657ad-ab04-418b-b317-81f558910503")
 	)
 	(pad "1" thru_hole circle
 		(at -3.4 -2)
