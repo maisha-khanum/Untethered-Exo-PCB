@@ -7,4 +7,5 @@
   (lib (name "SI8642ED-B-IS")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/SI8642ED-B-IS.pretty")(options "")(descr ""))
   (lib (name "SM24CANB")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/SM24CANB.pretty")(options "")(descr ""))
   (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/SL2.1A.pretty")(options "")(descr ""))
+  (lib (name "XT60")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/XT60.pretty")(options "")(descr ""))
 )

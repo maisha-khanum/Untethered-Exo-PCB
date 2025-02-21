@@ -12153,12 +12153,6 @@
 		(uuid "4afe3463-f599-4bac-ae71-dc3155c48b8d")
 	)
 	(junction
-		(at 102.87 342.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b5a818b-441e-4f6b-b0f9-62a370637120")
-	)
-	(junction
 		(at 520.7 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15050,16 +15044,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 337.82) (xy 102.87 337.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69861f5f-5738-4814-b883-f547e5fb1ccf")
-	)
-	(wire
-		(pts
 			(xy 167.64 45.72) (xy 167.64 90.17)
 		)
 		(stroke
@@ -17867,16 +17851,6 @@
 			(type default)
 		)
 		(uuid "fa8a5716-3189-45eb-84bb-5cce1f6d7c0c")
-	)
-	(wire
-		(pts
-			(xy 102.87 337.82) (xy 102.87 342.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb9a45e5-d179-4870-9042-bf25aa385fd6")
 	)
 	(wire
 		(pts
@@ -21007,7 +20981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
+		(lib_id "Connector_Generic:Conn_01x02")
 		(at 110.49 340.36 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21017,7 +20991,7 @@
 		(fields_autoplaced yes)
 		(uuid "18a69d4f-f35f-4b0d-b87d-61f3c9278050")
 		(property "Reference" "J5"
-			(at 113.03 339.0899 0)
+			(at 113.03 340.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21026,7 +21000,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 113.03 341.6299 0)
+			(at 113.03 342.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21052,7 +21026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 110.49 340.36 0)
 			(effects
 				(font
@@ -21060,9 +21034,6 @@
 				)
 				(hide yes)
 			)
-		)
-		(pin "3"
-			(uuid "3a136470-00bb-45e9-8084-0d3d572413e3")
 		)
 		(pin "2"
 			(uuid "9553e81d-07c2-4e15-bb7e-1945e66eab97")
