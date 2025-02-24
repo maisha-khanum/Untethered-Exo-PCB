@@ -11961,6 +11961,12 @@
 		(uuid "06a425d9-75f7-41b1-b0a1-0bb51ea5a948")
 	)
 	(junction
+		(at 140.97 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06c4a471-626a-40be-acb9-8f986647b245")
+	)
+	(junction
 		(at 64.77 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12249,6 +12255,12 @@
 		(uuid "45e38747-620f-4604-83d5-38a78a0455b5")
 	)
 	(junction
+		(at 425.45 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45e86f29-0cbd-49ce-bd24-855f9f743294")
+	)
+	(junction
 		(at 520.7 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12385,6 +12397,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61759441-f822-48c3-b05f-50696d77165b")
+	)
+	(junction
+		(at 140.97 280.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69f6f259-584a-497f-ad7d-7a425e77a11b")
 	)
 	(junction
 		(at 59.69 82.55)
@@ -14032,6 +14050,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 405.13) (xy 40.64 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2000ec2d-1ea7-4abe-8672-6b2b1650794e")
+	)
+	(wire
+		(pts
 			(xy 187.96 336.55) (xy 180.34 336.55)
 		)
 		(stroke
@@ -14039,6 +14067,16 @@
 			(type default)
 		)
 		(uuid "2067d75a-55f6-46e1-a89a-81a6fd6bd549")
+	)
+	(wire
+		(pts
+			(xy 59.69 389.89) (xy 59.69 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20709551-c9d1-4b3d-b96b-be6e92dc59cc")
 	)
 	(wire
 		(pts
@@ -14212,7 +14250,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 280.67) (xy 143.51 280.67)
+			(xy 137.16 280.67) (xy 140.97 280.67)
 		)
 		(stroke
 			(width 0)
@@ -14369,6 +14407,16 @@
 			(type default)
 		)
 		(uuid "30f9b203-f23d-4489-b516-6326f7be1258")
+	)
+	(wire
+		(pts
+			(xy 48.26 398.78) (xy 48.26 405.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3167b2cf-5050-40cf-81ed-3d3f4ebd001c")
 	)
 	(wire
 		(pts
@@ -14779,6 +14827,16 @@
 			(type default)
 		)
 		(uuid "44896feb-ee03-4633-bd6a-975eb81ce003")
+	)
+	(wire
+		(pts
+			(xy 140.97 280.67) (xy 143.51 280.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44b3cc0d-d692-4db7-a807-4a68816f6b02")
 	)
 	(wire
 		(pts
@@ -15512,6 +15570,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 389.89) (xy 48.26 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64a7ca33-d124-4323-964a-544100035148")
+	)
+	(wire
+		(pts
 			(xy 502.92 153.67) (xy 524.51 153.67)
 		)
 		(stroke
@@ -16202,6 +16270,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 389.89) (xy 40.64 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82587d2f-eced-4ad1-a66d-eda9e8f30550")
+	)
+	(wire
+		(pts
 			(xy 415.29 266.7) (xy 416.56 266.7)
 		)
 		(stroke
@@ -16762,6 +16840,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 389.89) (xy 35.56 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a7a6e87-ad5f-43cc-b37c-40e8bf567465")
+	)
+	(wire
+		(pts
 			(xy 261.62 269.24) (xy 247.65 269.24)
 		)
 		(stroke
@@ -16779,6 +16867,16 @@
 			(type default)
 		)
 		(uuid "9bde8c1c-a58b-4ea5-af50-5ceeaa4906b0")
+	)
+	(wire
+		(pts
+			(xy 140.97 273.05) (xy 143.51 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c39c76a-094a-4c38-a9c9-9270753e002b")
 	)
 	(wire
 		(pts
@@ -16839,6 +16937,16 @@
 			(type default)
 		)
 		(uuid "9e5b17ad-1fcb-4e87-844b-c87f23c0a26f")
+	)
+	(wire
+		(pts
+			(xy 53.34 389.89) (xy 53.34 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ead4135-f519-4a94-95e0-71bc152e80bf")
 	)
 	(wire
 		(pts
@@ -17812,7 +17920,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 273.05) (xy 143.51 273.05)
+			(xy 137.16 273.05) (xy 140.97 273.05)
 		)
 		(stroke
 			(width 0)
@@ -18169,6 +18277,16 @@
 			(type default)
 		)
 		(uuid "dc87a81e-f7a7-4a80-beb5-41b3efeadb9b")
+	)
+	(wire
+		(pts
+			(xy 35.56 405.13) (xy 35.56 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd2fc9e0-14fd-49b9-8c49-e2e26addcae7")
 	)
 	(wire
 		(pts
@@ -18868,6 +18986,18 @@
 		)
 		(uuid d81b3614-75fc-4b5c-aeb9-d9767b5f4b8a)
 	)
+	(rectangle
+		(start 24.13 374.65)
+		(end 81.28 407.035)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fd05373e-f06e-43eb-a15a-5231b2e8473a)
+	)
 	(text "Power Management"
 		(exclude_from_sim no)
 		(at 96.012 238.252 0)
@@ -18918,6 +19048,16 @@
 			)
 		)
 		(uuid "5721bb5c-2df3-4aa5-93a7-99b5b3ad1f4a")
+	)
+	(text "Testpoints"
+		(exclude_from_sim no)
+		(at 74.676 405.892 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5b1ca201-ee14-4e4a-b64a-3f0e9016ff29")
 	)
 	(text "V_{in}"
 		(exclude_from_sim no)
@@ -19208,6 +19348,17 @@
 		)
 		(uuid "290b9f25-346f-4b5d-baf7-df5a6dd29e31")
 	)
+	(label "P_{IN,+}"
+		(at 53.34 389.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2b3eb74f-e7d3-4d4a-81b4-3fd2c12c067e")
+	)
 	(label "D_{USB_P}"
 		(at 214.63 102.87 0)
 		(fields_autoplaced yes)
@@ -19218,6 +19369,17 @@
 			(justify left bottom)
 		)
 		(uuid "2e51c9d9-9ab1-481f-9c84-c4ca7dad21f8")
+	)
+	(label "SG_{IN,+}"
+		(at 40.64 389.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30d7fd18-0734-41bb-9862-edfa74eeeed6")
 	)
 	(label "GPIO24"
 		(at 187.96 339.09 180)
@@ -19307,6 +19469,17 @@
 		)
 		(uuid "41671e24-fee4-4694-8d3b-a292872a95f7")
 	)
+	(label "V_{battery}"
+		(at 59.69 389.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "41c4eed3-a5a7-473d-9f95-56a2f55ca553")
+	)
 	(label "SDA"
 		(at 212.09 331.47 180)
 		(fields_autoplaced yes)
@@ -19350,6 +19523,17 @@
 			(justify right bottom)
 		)
 		(uuid "48c76819-0c9b-46b2-8ffd-4605fb4e0248")
+	)
+	(label "IMU_{RST}"
+		(at 48.26 405.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48e02f20-44fd-468b-af3c-81e2023b6465")
 	)
 	(label "IMU_{RST}"
 		(at 132.08 288.29 0)
@@ -19527,6 +19711,17 @@
 		)
 		(uuid "68e718bd-7bd8-44c1-9035-bc730e07e20d")
 	)
+	(label "SG_{IN,-}"
+		(at 35.56 389.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6ac7104d-ed8f-4aba-98a9-5ddeccf50fc2")
+	)
 	(label "RXD_0A"
 		(at 302.26 289.56 180)
 		(fields_autoplaced yes)
@@ -19537,6 +19732,17 @@
 			(justify right bottom)
 		)
 		(uuid "6ccd08e3-8bc0-47cf-8a14-ef25755e6fbe")
+	)
+	(label "P_{IN,-}"
+		(at 48.26 389.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "710d9215-abd0-478b-b367-064b90a1bacc")
 	)
 	(label "TXD_0A"
 		(at 302.26 266.7 180)
@@ -20055,6 +20261,17 @@
 		)
 		(uuid "baddf4d5-430e-427c-a273-a15d58ea37be")
 	)
+	(label "IMU_{HINT}"
+		(at 35.56 405.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc9fd319-cba1-46a4-bf77-2dc6097891f8")
+	)
 	(label "D_{CS,ADC}"
 		(at 433.07 85.09 0)
 		(fields_autoplaced yes)
@@ -20252,6 +20469,17 @@
 			(justify left bottom)
 		)
 		(uuid "d1288e55-2cd3-4611-a60d-b10bcbdae300")
+	)
+	(label "IMU_{BOOT}"
+		(at 40.64 405.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d692e2d5-8d71-424d-947b-0053cd2f8e0d")
 	)
 	(label "SCL"
 		(at 212.09 328.93 180)
@@ -21333,6 +21561,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 59.69 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c5b4464-3e69-4852-8fd2-733de2924f64")
+		(property "Reference" "TP35"
+			(at 62.23 378.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 66.294 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 64.77 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 59.69 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea17ee05-5aee-418f-829f-166400a1fcda")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Bridged")
 		(at 132.08 262.89 90)
 		(unit 1)
@@ -21469,6 +21764,140 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 40.64 398.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e87ab20-512a-442f-934c-22e5ca4b797b")
+		(property "Reference" "TP37"
+			(at 43.18 393.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 47.244 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 45.72 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 40.64 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11b70551-4933-442b-a350-da1b09655a4d")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 35.56 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1185809b-ba44-43cb-bc79-823f835c7585")
+		(property "Reference" "TP31"
+			(at 37.846 378.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 42.164 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 40.64 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 35.56 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "563aec93-a94b-4ecf-89c6-b04a8c70c978")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 279.4 232.41 90)
 		(unit 1)
@@ -21528,6 +21957,73 @@
 			(project "exoMainPCB"
 				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
 					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 35.56 398.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15936bba-8143-4bad-9ffa-f044cd570a28")
+		(property "Reference" "TP36"
+			(at 37.846 393.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 42.164 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 40.64 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 35.56 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3449ae80-b69b-429e-892a-8ed9a02a3c57")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP36")
 					(unit 1)
 				)
 			)
@@ -24743,6 +25239,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 425.45 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c7b473c-8a72-4c16-b5b1-1c47b7b80e23")
+		(property "Reference" "TP41"
+			(at 420.116 149.098 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 420.37 144.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 425.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 425.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 425.45 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6b386ec-df47-408b-9e21-c72132e5badd")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 66.04 290.83 0)
 		(unit 1)
@@ -25070,6 +25633,73 @@
 			(project "exoMainPCB"
 				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
 					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 273.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46aef662-e09b-41f3-94c5-8a80e4c6355b")
+		(property "Reference" "TP39"
+			(at 143.002 267.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 147.574 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 146.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 140.97 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b7a0cfb0-827a-4e91-8d5c-05d7aee27fe4")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP39")
 					(unit 1)
 				)
 			)
@@ -29849,6 +30479,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 280.67 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "87e8de57-ab91-429d-984f-c3c582bff6fe")
+		(property "Reference" "TP40"
+			(at 138.43 286.004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 134.366 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 135.89 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 140.97 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cd6c656-44d3-4847-ada8-e4e30c99eb5e")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Power_Protection:PESD5V0L4UF")
 		(at 74.93 71.12 270)
 		(unit 4)
@@ -30887,6 +31584,73 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 48.26 398.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95cfaf33-210f-4d37-a5f5-ae7bfb9889bc")
+		(property "Reference" "TP38"
+			(at 50.292 393.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 54.864 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 53.34 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 48.26 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fdb3b71-7133-4ebf-8c14-68b14ecc6492")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 227.33 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31425,6 +32189,73 @@
 			(project "exoMainPCB"
 				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
 					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 40.64 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f7e1846-92a0-4966-a9b2-3e8d29ac12ba")
+		(property "Reference" "TP32"
+			(at 43.18 378.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 47.244 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 45.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 40.64 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22bc73e7-0d83-49fb-b9eb-bf60c157687c")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP32")
 					(unit 1)
 				)
 			)
@@ -33100,6 +33931,73 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 48.26 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c392333a-d1fe-42f5-a858-50c34f0f1462")
+		(property "Reference" "TP33"
+			(at 50.292 378.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 54.864 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 53.34 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 48.26 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b94bbc6e-2f93-485a-9480-e3a804451bfa")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 355.6 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33652,7 +34550,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 413.512 135.89 90)
+			(at 408.94 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35582,7 +36480,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 422.91 139.954 0)
+			(at 422.402 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36101,6 +36999,73 @@
 			(project ""
 				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 53.34 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "efa0602f-01ee-41f7-b011-633bee201e5d")
+		(property "Reference" "TP34"
+			(at 55.372 378.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.944 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 58.42 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 53.34 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e93f07d-58e0-42d6-b7a1-d894ea282cf0")
+		)
+		(instances
+			(project "exoMainPCB"
+				(path "/d7ca945d-d48b-4d0a-95a1-7fbd3f20f475"
+					(reference "TP34")
 					(unit 1)
 				)
 			)
@@ -37084,7 +38049,7 @@
 		(dnp no)
 		(uuid "fad60081-6e43-4a1a-ac84-f170b7a469fc")
 		(property "Reference" "C12"
-			(at 143.256 267.97 90)
+			(at 152.146 268.224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37092,7 +38057,7 @@
 			)
 		)
 		(property "Value" "22 pF"
-			(at 143.256 270.51 90)
+			(at 152.4 270.764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
